@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+  <title id="title">How to use a KZ-SKILLS skill</title><desc id="desc">Choose a skill, load its instructions, describe your task, and review the output.</desc>
+  <rect width="1100" height="190" rx="22" fill="#11111b"/>
+  <g font-family="Inter,Arial,sans-serif">
+    <g transform="translate(30 30)"><rect width="225" height="130" rx="17" fill="#201b31" stroke="#6d4f9d"/><circle cx="31" cy="32" r="17" fill="#ff4d7d"/><text x="25" y="38" fill="white" font-size="17" font-weight="700">1</text><text x="60" y="39" fill="#ff9ab7" font-size="13" font-weight="700">DISCOVER</text><text x="22" y="83" fill="white" font-size="20" font-weight="700">Choose a skill</text><text x="22" y="108" fill="#b9b3ca" font-size="13">Find a task that fits.</text></g>
+    <path d="M266 95h28m-8-8 8 8-8 8" fill="none" stroke="#947cb5" stroke-width="3"/>
+    <g transform="translate(310 30)"><rect width="225" height="130" rx="17" fill="#201b31" stroke="#6d4f9d"/><circle cx="31" cy="32" r="17" fill="#c05de8"/><text x="25" y="38" fill="white" font-size="17" font-weight="700">2</text><text x="60" y="39" fill="#d9a0ff" font-size="13" font-weight="700">LOAD</text><text x="22" y="83" fill="white" font-size="20" font-weight="700">Share the rules</text><text x="22" y="108" fill="#b9b3ca" font-size="13">Install or paste the skill.</text></g>
+    <path d="M546 95h28m-8-8 8 8-8 8" fill="none" stroke="#947cb5" stroke-width="3"/>
+    <g transform="translate(590 30)"><rect width="225" height="130" rx="17" fill="#201b31" stroke="#6d4f9d"/><circle cx="31" cy="32" r="17" fill="#4e9cff"/><text x="25" y="38" fill="white" font-size="17" font-weight="700">3</text><text x="60" y="39" fill="#9cc8ff" font-size="13" font-weight="700">ASK</text><text x="22" y="83" fill="white" font-size="20" font-weight="700">Describe the task</text><text x="22" y="108" fill="#b9b3ca" font-size="13">Use your own project context.</text></g>
+    <path d="M826 95h28m-8-8 8 8-8 8" fill="none" stroke="#947cb5" stroke-width="3"/>
+    <g transform="translate(870 30)"><rect width="200" height="130" rx="17" fill="#201b31" stroke="#6d4f9d"/><circle cx="31" cy="32" r="17" fill="#43c99b"/><text x="25" y="38" fill="white" font-size="17" font-weight="700">4</text><text x="60" y="39" fill="#8ce5c6" font-size="13" font-weight="700">REVIEW</text><text x="22" y="83" fill="white" font-size="20" font-weight="700">Check the work</text><text x="22" y="108" fill="#b9b3ca" font-size="13">Refine, verify, repeat.</text></g>
+  </g>
+</svg>

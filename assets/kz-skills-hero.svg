@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">KZ-SKILLS</title><desc id="desc">A glowing library of portable AI skills, with connected skill cards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10101a"/><stop offset=".55" stop-color="#17152a"/><stop offset="1" stop-color="#2c1230"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff4d7d"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="14" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="950" cy="160" r="135" fill="#a855f7" opacity=".11" filter="url(#glow)"/>
+  <g fill="none" stroke="#9d8bbd" stroke-opacity=".35" stroke-width="2"><path d="M685 180h94m70 0h72M814 180v-78m0 78v78M921 180v-76m0 76v76"/><path d="M814 102h105M814 258h105"/></g>
+  <g filter="url(#glow)" fill="url(#accent)"><circle cx="685" cy="180" r="9"/><circle cx="779" cy="180" r="8"/><circle cx="885" cy="180" r="8"/><circle cx="993" cy="180" r="8"/></g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="700">
+    <rect x="735" y="55" width="158" height="92" rx="15" fill="#211d37" stroke="#8b6bd0"/><text x="755" y="92" fill="#b7a0ff" font-size="13">SKILL / DESIGN</text><text x="755" y="119" fill="#fff" font-size="17">UI + UX</text>
+    <rect x="735" y="213" width="158" height="92" rx="15" fill="#211d37" stroke="#8b6bd0"/><text x="755" y="250" fill="#b7a0ff" font-size="13">SKILL / BUILD</text><text x="755" y="277" fill="#fff" font-size="17">ENGINEERING</text>
+    <rect x="921" y="55" width="194" height="92" rx="15" fill="#211d37" stroke="#b95691"/><text x="941" y="92" fill="#ff8bb7" font-size="13">SKILL / THINK</text><text x="941" y="119" fill="#fff" font-size="17">AI + RESEARCH</text>
+    <rect x="921" y="213" width="194" height="92" rx="15" fill="#211d37" stroke="#b95691"/><text x="941" y="250" fill="#ff8bb7" font-size="13">SKILL / CREATE</text><text x="941" y="277" fill="#fff" font-size="17">WORDS + IDEAS</text>
+  </g>
+  <text x="72" y="142" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="55" font-weight="800" letter-spacing="-2">A skill library</text>
+  <text x="72" y="202" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="55" font-weight="800" letter-spacing="-2">for every kind</text>
+  <text x="72" y="262" fill="url(#accent)" font-family="Inter,Arial,sans-serif" font-size="55" font-weight="800" letter-spacing="-2">of thinking.</text>
+  <text x="75" y="310" fill="#b9b3ca" font-family="Inter,Arial,sans-serif" font-size="16">OPEN • MODULAR • TEXT-FIRST</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="145" viewBox="0 0 620 145" role="img" aria-labelledby="title desc">
+<title id="title">A tiny AI skill meme</title><desc id="desc">Before: asking the AI to read your mind. After: giving it a clear skill and task.</desc>
+<rect width="620" height="145" rx="18" fill="#171522" stroke="#51436c"/>
+<g transform="translate(20 22)" shape-rendering="crispEdges">
+<rect x="24" y="3" width="38" height="8" fill="#a78bfa"/><rect x="14" y="11" width="58" height="8" fill="#a78bfa"/><rect x="8" y="19" width="70" height="35" rx="4" fill="#6d4aff"/><rect x="20" y="27" width="10" height="9" fill="#fff"/><rect x="55" y="27" width="10" height="9" fill="#fff"/><rect x="31" y="43" width="25" height="5" fill="#ffc0db"/><rect x="23" y="54" width="42" height="15" fill="#6749d3"/><rect x="9" y="68" width="22" height="14" fill="#ff668d"/><rect x="56" y="68" width="22" height="14" fill="#ff668d"/>
+</g>
+<text x="120" y="49" fill="#ff83a3" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">BEFORE</text><text x="120" y="73" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="16">“AI, just… know what I mean.”</text>
+<text x="365" y="49" fill="#77e0bd" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">AFTER</text><text x="365" y="73" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="16">“Here's the skill. Here's the task.”</text>
+<text x="120" y="112" fill="#aaa3bd" font-family="Inter,Arial,sans-serif" font-size="13">Fewer mind-reading vibes. More useful workflows.</text>
+</svg>
